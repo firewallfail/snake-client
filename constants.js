@@ -1,4 +1,4 @@
-const IP = '172.23.174.163'; //'165.227.47.243'
+const IP = '165.227.47.243'; //'172.23.174.163'
 const PORT = '50541';
 const NAME = "Name: MUG";
 const GREETING = "Sssuccesssfully connected to game ssserver";
